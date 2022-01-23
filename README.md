@@ -1,5 +1,11 @@
 # shamo
 
+
+
+https://user-images.githubusercontent.com/90954993/150663790-8b964c36-e677-4720-91f9-d6b4056743f8.mp4
+
+
+
 A new Flutter project.
 
 ## Getting Started
